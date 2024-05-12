@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
 <sup>
-<b>FlexibleApps is site for open source code libtary.</b>
+<b>Flexible apps is an educational website to explain the JavaFX programming language and open source library.</b>
 </sup>
 </p>
 
